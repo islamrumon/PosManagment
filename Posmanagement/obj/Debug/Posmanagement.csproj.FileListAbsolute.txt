@@ -1,0 +1,53 @@
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\bin\Debug\Posmanagement.exe.config
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\bin\Debug\Posmanagement.exe
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\bin\Debug\Posmanagement.pdb
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.csprojResolveAssemblyReference.cache
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Properties.Resources.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.csproj.GenerateResource.Cache
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.exe
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.pdb
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.frmLogin.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Registration.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Dashboard.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.CRM.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.NewCustomerCRM.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.StoreInventory.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SupplierInfo.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.AddNewVendor.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SubCat.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SubcatCreates.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.ItemInfo.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.PurchaseOrder.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.company.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.MasterData.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.ProductCategory.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SalesReport.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Item.resources
+I:\Visual Studio 2015\project2\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Supplier.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\bin\Debug\Posmanagement.exe.config
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\bin\Debug\Posmanagement.exe
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\bin\Debug\Posmanagement.pdb
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.csprojAssemblyReference.cache
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.AddNewVendor.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.company.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.CRM.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Dashboard.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Item.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.ItemInfo.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.frmLogin.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.MasterData.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.NewCustomerCRM.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.ProductCategory.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Properties.Resources.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.PurchaseOrder.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Registration.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SalesReport.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.StoreInventory.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SubCat.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SubcatCreates.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.Supplier.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.SupplierInfo.resources
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.csproj.GenerateResource.cache
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.csproj.CoreCompileInputs.cache
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.exe
+C:\Users\Rumon\Desktop\project Base\Posmanagement\Posmanagement\obj\Debug\Posmanagement.pdb
